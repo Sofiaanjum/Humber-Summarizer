@@ -7,7 +7,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Humber-Summarizer"
 AUTHOR_USER_NAME = "Sofiaanjum"
-SRC_REPO = "Humber-Summarizer"
+SRC_REPO = "HumberSummarizer"
 AUTHOR_EMAIL = "ahmedsofia15@gmail.com"
 
 setuptools.setup(
