@@ -39,7 +39,8 @@ The Humber Summarizer is a versatile tool designed to simplify the process of su
 ### Installation
 1. Clone this repository to your local machine:
    
-```git clone https://github.com/Sofiaanjum/Humber-Summarizer.git```
+```
+git clone https://github.com/Sofiaanjum/Humber-Summarizer.git```
 
 2. Navigate to the project directory:
 
@@ -51,7 +52,7 @@ The Humber Summarizer is a versatile tool designed to simplify the process of su
 
 ### Usage
 1. Run the main application file, `app.py`, using the following command:
-`streamlit run app.py`
+```streamlit run app.py```
 
 2. This will open a web browser window with the Humber Summarizer interface.
 
