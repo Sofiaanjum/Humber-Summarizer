@@ -40,7 +40,8 @@ The Humber Summarizer is a versatile tool designed to simplify the process of su
 1. Clone this repository to your local machine:
    
 ```
-git clone https://github.com/Sofiaanjum/Humber-Summarizer.git```
+git clone https://github.com/Sofiaanjum/Humber-Summarizer.git
+```
 
 2. Navigate to the project directory:
 
