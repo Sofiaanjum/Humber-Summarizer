@@ -73,6 +73,5 @@ streamlit run app.py
 Here's a sample usage of the Humber Summarizer:
 
 1. User uploads a PDF document containing a research paper in English.
-2. User selects the English language option.
-3. User clicks the "Summarize" button.
-4. The tool processes the document and displays a summarized version of the research paper.
+2. User selects the English language and clicks "Summarize (English) " button.
+3. The tool processes the document and displays a summarized version of the research paper.
