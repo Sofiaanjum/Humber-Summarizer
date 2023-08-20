@@ -29,7 +29,7 @@ The Humber Summarizer is a versatile tool designed to simplify the process of su
 - To use the Humber Summarizer tool on your local machine, follow these steps:
 
 ### Project Flowchart
-![Alt text](https://github.com/Sofiaanjum/Humber-Summarizer/blob/main/flowchart.png)
+![Alt text](https://github.com/Sofiaanjum/Humber-Summarizer/blob/main/Flowchart.png)
 
 
 ### Prerequisites
