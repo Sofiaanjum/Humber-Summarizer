@@ -45,23 +45,29 @@ git clone https://github.com/Sofiaanjum/Humber-Summarizer.git
 
 2. Navigate to the project directory:
 
-```cd Humber-Summarizer```
+```
+cd Humber-Summarizer
+```
 
 3. Install the required dependencies using `pip`:
 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 ### Usage
 1. Run the main application file, `app.py`, using the following command:
-```streamlit run app.py```
+```
+streamlit run app.py
+```
 
-2. This will open a web browser window with the Humber Summarizer interface.
+3. This will open a web browser window with the Humber Summarizer interface.
 
-3. Enter the text or upload a document you want to summarize.
+4. Enter the text or upload a document you want to summarize.
 
-4. Choose the appropriate language (English or French) for summarization.
+5. Choose the appropriate language (English or French) for summarization.
 
-5. Click the "Summarize" button to generate a concise summary of the input document.
+6. Click the "Summarize" button to generate a concise summary of the input document.
 
 ### Example
 Here's a sample usage of the Humber Summarizer:
